@@ -20,5 +20,6 @@
   "devDependencies": {
     "jest": "^29.6.3",
     "prettier": "^3.3.3"
-  }
+  },
+  "jest.autoRun": "true"
 }
