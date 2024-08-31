@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Thomas Garcia Campos</h1>;
+    return <h1>Thomas Garcia Campos</h1>;
 }
 
 export default Home;
