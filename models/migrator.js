@@ -22,7 +22,7 @@ async function listPendingMigrations() {
         });
         return pendingMigrations;
     } finally {
-        await dbClient.end();
+        await dbClient?.end();
     }
 }
 
